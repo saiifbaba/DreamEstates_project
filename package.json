@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "16": "16.16.0",
+    "16": "^0.0.2",
     "@chakra-ui/react": "^1.8.9",
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
